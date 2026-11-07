@@ -47,18 +47,6 @@ My research interests include generative AI, computer vision, explainable machin
 
 💡 Two patent applications filed in multimodal sign language recognition and auditory scene interpretation.
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ketakip99&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketakip99&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketakip99&hide_border=true&theme=transparent" />
-</p>
-
----
 
 ## 🌱 Beyond Code
 
@@ -84,8 +72,4 @@ I'm always happy to connect, exchange ideas, and explore interesting technical p
 
 <p align="center">
   <i>Building intelligent systems. Exploring new ideas. Engineering what matters.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B4A,100:00F7FF&height=100&section=footer" />
 </p>
