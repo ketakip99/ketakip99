@@ -3,23 +3,9 @@
 ### AI/ML Engineer · Data Scientist · Researcher
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems.;Engineering+Data+Pipelines.;Exploring+AI+Beyond+the+Ordinary." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Engineering+Data+Pipelines.;Exploring+AI+Beyond+the+Ordinary." alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ketakip99">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ketakiparanjape">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@ketaki.kolhatkar99">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/ketakiiii/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
 ---
 
@@ -93,9 +79,6 @@ I'm always happy to connect, exchange ideas, and explore interesting technical p
 <p align="center">
   <a href="https://www.linkedin.com/in/ketakiparanjape">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@ketaki.kolhatkar99">
-    <img src="https://img.shields.io/badge/Explore_My_Writing-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
