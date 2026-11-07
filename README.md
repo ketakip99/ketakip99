@@ -9,8 +9,6 @@
 
 ---
 
-## `whoami`
-
 I'm a **Master of Computing in Artificial Intelligence student** at **National University of Singapore** with a background in computer engineering, data science, and machine learning.
 
 My work spans applied AI, generative models, computer vision, data engineering, and software analysis. I enjoy translating research into practical systems, from intelligent retrieval and forecasting to data pipelines and data analysis.
