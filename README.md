@@ -3,7 +3,7 @@
 ### AI/ML Engineer · Data Scientist · Researcher
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Engineering+Data+Pipelines.;Exploring+AI+Beyond+the+Ordinary." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Engineering+Data+Pipelines.;Exploring+AI+Beyond+the+Ordinary." alt="Typing introduction" />
 </p>
 
 
