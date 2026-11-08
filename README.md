@@ -23,7 +23,7 @@ My work spans applied AI, generative models, computer vision, data engineering, 
 
 ## 🔬 Research & Publications
 
-My research interests include generative AI, computer vision, explainable machine learning, speech processing, and intelligent systems.
+My research interests include generative AI, computer vision, explainable machine learning, audio processing, and intelligent systems.
 
 ### Research Areas
 
@@ -32,16 +32,18 @@ My research interests include generative AI, computer vision, explainable machin
 - Speech processing and classification
 - Multimodal AI and intelligent applications
 
-### Publications & Research
+### Research Publications & Patents
 
-- **Photo-realistic Disguised Faces from Sketches** — GANs and Stable Diffusion
-- **Interpretable Mental Disorder Classification** — Attention-based neural networks and SHAP explainability
-- **Dysarthria Detection** — HuBERT features and CNN-BiLSTM with attention fusion
-- **Statistical Analysis of Conflict Patterns** — Statistical analysis and pattern dynamics
+- [**Generation of Photo-realistic Disguised Faces from Sketches using GANs and Stable-Diffusion**](https://doi.org/10.1007/978-3-032-27754-1_35) — Springer LNNS Proceedings
+- [**Interpretable Mental Disorder Classification Using Attention-Based Neural Networks and SHAP Explainability**](https://doi.org/10.1145/3793449.3793453) — ACM Digital Library
+- [**HuBERT Features and CNN-BiLSTM with Attention Fusion for Improved Dysarthria Detection**](https://ieeexplore.ieee.org/document/11717132) — IEEE Xplore
+- [**Statistical Analysis of the Israeli-Palestinian Conflict: Patterns and Dynamics**](https://doi.org/10.1007/978-3-032-12983-3_11) — Springer LNNS Proceedings
 
-📄 Research publications across ACM, IEEE, and Springer proceedings.
+💡 Two patents filed
 
-💡 Two patent applications filed in multimodal sign language recognition and auditory scene interpretation.
+- **Real-time Deep Learning Enabled Auditory Scene Interpretation in Wearable Eyewear for Visually Impaired Users**
+
+- **Real-Time Multi-Modal Sign Language Recognition and Translation**
 
 
 ## 🌱 Beyond Code
