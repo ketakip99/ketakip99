@@ -69,5 +69,5 @@ I'm always happy to connect, exchange ideas, and explore interesting technical p
 </p>
 
 <p align="center">
-  <i>Building intelligent systems. Exploring new ideas. Engineering what matters.</i>
+  <i>Exploring new ideas. Engineering what matters.</i>
 </p>
